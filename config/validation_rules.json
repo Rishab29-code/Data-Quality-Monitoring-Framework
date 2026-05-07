@@ -1,0 +1,19 @@
+{
+  "rules": [
+    {
+      "name": "NULL_PRICE_CHECK",
+      "column": "price",
+      "type": "null"
+    },
+    {
+      "name": "NULL_TITLE_CHECK",
+      "column": "title",
+      "type": "null"
+    },
+    {
+      "name": "NEGATIVE_PRICE_CHECK",
+      "column": "price",
+      "type": "negative"
+    }
+  ]
+}

@@ -21,6 +21,15 @@ carts = requests.get(
 ).json()["carts"]
 
 products_df = pd.DataFrame(products)
+products_df = pd.concat([products_df] * 100, ignore_index=True)
+products_df["id"] = range(
+    skip * 100 + 1,
+    skip * 100 + len(products_df) + 1
+)
+products_df.loc[0, "price"] = None      # null price
+products_df.loc[1, "price"] = -50       # negative price
+products_df.loc[2, "title"] = None      # null title
+products_df.loc[3, "id"] = products_df.loc[4, "id"]   # duplicate id
 users_df = pd.DataFrame(users)
 carts_df = pd.DataFrame(carts)
 

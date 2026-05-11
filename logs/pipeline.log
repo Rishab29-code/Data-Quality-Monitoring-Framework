@@ -1,0 +1,209 @@
+2026-05-08 15:13:01,392 - INFO - ============================================================
+2026-05-08 15:13:01,393 - INFO - PIPELINE STARTED
+2026-05-08 15:13:01,395 - INFO - ============================================================
+2026-05-08 15:13:01,397 - INFO - 
+Running: API Ingestion
+2026-05-08 15:13:09,959 - INFO - SUCCESS: API Ingestion
+2026-05-08 15:13:09,960 - INFO - 
+Running: Load to Snowflake
+2026-05-08 15:13:28,419 - INFO - SUCCESS: Load to Snowflake
+2026-05-08 15:13:28,419 - INFO - 
+Running: Validation
+2026-05-08 15:13:42,909 - INFO - SUCCESS: Validation
+2026-05-08 15:13:42,910 - INFO - 
+Running: dbt Transformation
+2026-05-08 15:14:08,829 - ERROR - FAILED at step: dbt Transformation
+2026-05-08 15:14:08,830 - INFO - 
+PIPELINE FINISHED
+2026-05-08 15:14:08,830 - INFO - Pipeline execution completed
+2026-05-08 15:16:13,799 - INFO - ============================================================
+2026-05-08 15:16:13,800 - INFO - PIPELINE STARTED
+2026-05-08 15:16:13,800 - INFO - ============================================================
+2026-05-08 15:16:13,801 - INFO - 
+Running: API Ingestion
+2026-05-08 15:16:20,937 - INFO - SUCCESS: API Ingestion
+2026-05-08 15:16:20,938 - INFO - 
+Running: Load to Snowflake
+2026-05-08 15:16:39,257 - INFO - SUCCESS: Load to Snowflake
+2026-05-08 15:16:39,258 - INFO - 
+Running: Validation
+2026-05-08 15:16:51,059 - INFO - SUCCESS: Validation
+2026-05-08 15:16:51,060 - INFO - 
+Running: dbt Transformation
+2026-05-08 15:17:16,297 - INFO - SUCCESS: dbt Transformation
+2026-05-08 15:17:16,307 - INFO - 
+PIPELINE FINISHED
+2026-05-08 15:17:16,309 - INFO - Pipeline execution completed
+2026-05-08 18:44:43,687 - INFO - ============================================================
+2026-05-08 18:44:43,688 - INFO - PIPELINE STARTED
+2026-05-08 18:44:43,688 - INFO - ============================================================
+2026-05-08 18:44:43,688 - INFO - 
+Running: API Ingestion
+2026-05-08 18:44:52,288 - INFO - SUCCESS: API Ingestion
+2026-05-08 18:44:52,289 - INFO - 
+Running: Load to Snowflake
+2026-05-08 18:44:52,416 - ERROR - FAILED at step: Load to Snowflake
+2026-05-08 18:44:52,417 - INFO - 
+PIPELINE FINISHED
+2026-05-08 18:44:52,417 - INFO - Pipeline execution completed
+2026-05-08 18:50:03,465 - INFO - ============================================================
+2026-05-08 18:50:03,466 - INFO - PIPELINE STARTED
+2026-05-08 18:50:03,468 - INFO - ============================================================
+2026-05-08 18:50:03,469 - INFO - 
+Running: API Ingestion
+2026-05-08 18:50:35,205 - INFO - SUCCESS: API Ingestion
+2026-05-08 18:50:35,206 - INFO - 
+Running: Load to Snowflake
+2026-05-08 18:50:53,174 - INFO - SUCCESS: Load to Snowflake
+2026-05-08 18:50:53,175 - INFO - 
+Running: Validation
+2026-05-08 18:51:05,437 - INFO - SUCCESS: Validation
+2026-05-08 18:51:05,438 - INFO - 
+Running: dbt Transformation
+2026-05-08 18:51:43,829 - INFO - SUCCESS: dbt Transformation
+2026-05-08 18:51:43,830 - INFO - 
+PIPELINE FINISHED
+2026-05-08 18:51:43,830 - INFO - Pipeline execution completed
+2026-05-08 18:56:52,485 - INFO - ============================================================
+2026-05-08 18:56:52,487 - INFO - PIPELINE STARTED
+2026-05-08 18:56:52,487 - INFO - ============================================================
+2026-05-08 18:56:52,487 - INFO - 
+Running: API Ingestion
+2026-05-08 18:57:01,547 - INFO - SUCCESS: API Ingestion
+2026-05-08 18:57:01,548 - INFO - 
+Running: Load to Snowflake
+2026-05-08 18:57:17,487 - INFO - SUCCESS: Load to Snowflake
+2026-05-08 18:57:17,487 - INFO - 
+Running: Validation
+2026-05-08 18:57:30,010 - INFO - SUCCESS: Validation
+2026-05-08 18:57:30,011 - INFO - 
+Running: dbt Transformation
+2026-05-08 18:57:52,008 - INFO - SUCCESS: dbt Transformation
+2026-05-08 18:57:52,009 - INFO - 
+PIPELINE FINISHED
+2026-05-08 18:57:52,009 - INFO - Pipeline execution completed
+2026-05-08 19:03:38,660 - INFO - ============================================================
+2026-05-08 19:03:38,660 - INFO - PIPELINE STARTED
+2026-05-08 19:03:38,661 - INFO - ============================================================
+2026-05-08 19:03:38,661 - INFO - 
+Running: API Ingestion
+2026-05-08 19:03:47,215 - INFO - SUCCESS: API Ingestion
+2026-05-08 19:03:47,215 - INFO - 
+Running: Load to Snowflake
+2026-05-08 19:04:01,350 - INFO - SUCCESS: Load to Snowflake
+2026-05-08 19:04:01,351 - INFO - 
+Running: Validation
+2026-05-08 19:04:12,487 - INFO - SUCCESS: Validation
+2026-05-08 19:04:12,487 - INFO - 
+Running: dbt Transformation
+2026-05-08 19:04:34,566 - INFO - SUCCESS: dbt Transformation
+2026-05-08 19:04:34,567 - INFO - 
+PIPELINE FINISHED
+2026-05-08 19:04:34,567 - INFO - Pipeline execution completed
+2026-05-11 12:56:06,875 - INFO - ============================================================
+2026-05-11 12:56:06,877 - INFO - PIPELINE STARTED
+2026-05-11 12:56:06,878 - INFO - ============================================================
+2026-05-11 12:56:06,878 - INFO - 
+Running: API Ingestion
+2026-05-11 12:56:45,878 - INFO - ============================================================
+2026-05-11 12:56:45,879 - INFO - PIPELINE STARTED
+2026-05-11 12:56:45,880 - INFO - ============================================================
+2026-05-11 12:56:45,880 - INFO - 
+Running: API Ingestion
+2026-05-11 12:56:59,750 - INFO - SUCCESS: API Ingestion
+2026-05-11 12:56:59,751 - INFO - 
+Running: Load to Snowflake
+2026-05-11 12:57:00,095 - ERROR - FAILED at step: Load to Snowflake
+2026-05-11 12:57:00,096 - INFO - 
+PIPELINE FINISHED
+2026-05-11 12:57:00,097 - INFO - Pipeline execution completed
+2026-05-11 12:58:23,706 - INFO - ============================================================
+2026-05-11 12:58:23,727 - INFO - PIPELINE STARTED
+2026-05-11 12:58:23,728 - INFO - ============================================================
+2026-05-11 12:58:23,728 - INFO - 
+Running: API Ingestion
+2026-05-11 12:58:35,647 - INFO - SUCCESS: API Ingestion
+2026-05-11 12:58:35,648 - INFO - 
+Running: Load to Snowflake
+2026-05-11 12:59:03,157 - INFO - SUCCESS: Load to Snowflake
+2026-05-11 12:59:03,158 - INFO - 
+Running: Validation
+2026-05-11 12:59:15,012 - INFO - SUCCESS: Validation
+2026-05-11 12:59:15,013 - INFO - 
+Running: dbt Transformation
+2026-05-11 13:00:01,661 - INFO - SUCCESS: dbt Transformation
+2026-05-11 13:00:01,661 - INFO - 
+PIPELINE FINISHED
+2026-05-11 13:00:01,662 - INFO - Pipeline execution completed
+2026-05-11 13:26:26,057 - INFO - ============================================================
+2026-05-11 13:26:26,058 - INFO - PIPELINE STARTED
+2026-05-11 13:26:26,058 - INFO - ============================================================
+2026-05-11 13:26:26,059 - INFO - 
+Running: API Ingestion
+2026-05-11 13:26:41,451 - INFO - SUCCESS: API Ingestion
+2026-05-11 13:26:41,451 - INFO - 
+Running: Load to Snowflake
+2026-05-11 13:27:00,942 - INFO - SUCCESS: Load to Snowflake
+2026-05-11 13:27:00,943 - INFO - 
+Running: Validation
+2026-05-11 13:27:12,749 - INFO - SUCCESS: Validation
+2026-05-11 13:27:12,749 - INFO - 
+Running: dbt Transformation
+2026-05-11 13:27:53,948 - INFO - SUCCESS: dbt Transformation
+2026-05-11 13:27:53,948 - INFO - 
+PIPELINE FINISHED
+2026-05-11 13:27:53,948 - INFO - Pipeline execution completed
+2026-05-11 13:28:23,597 - INFO - ============================================================
+2026-05-11 13:28:23,598 - INFO - PIPELINE STARTED
+2026-05-11 13:28:23,599 - INFO - ============================================================
+2026-05-11 13:28:23,599 - INFO - 
+Running: API Ingestion
+2026-05-11 13:28:31,636 - INFO - SUCCESS: API Ingestion
+2026-05-11 13:28:31,636 - INFO - 
+Running: Load to Snowflake
+2026-05-11 13:28:49,579 - INFO - SUCCESS: Load to Snowflake
+2026-05-11 13:28:49,579 - INFO - 
+Running: Validation
+2026-05-11 13:29:01,927 - INFO - SUCCESS: Validation
+2026-05-11 13:29:01,928 - INFO - 
+Running: dbt Transformation
+2026-05-11 13:29:23,556 - INFO - SUCCESS: dbt Transformation
+2026-05-11 13:29:23,557 - INFO - 
+PIPELINE FINISHED
+2026-05-11 13:29:23,557 - INFO - Pipeline execution completed
+2026-05-11 13:39:31,440 - INFO - ============================================================
+2026-05-11 13:39:31,469 - INFO - PIPELINE STARTED
+2026-05-11 13:39:31,470 - INFO - ============================================================
+2026-05-11 13:39:31,471 - INFO - 
+Running: API Ingestion
+2026-05-11 13:39:39,782 - INFO - SUCCESS: API Ingestion
+2026-05-11 13:39:39,783 - INFO - 
+Running: Load to Snowflake
+2026-05-11 13:39:59,715 - INFO - SUCCESS: Load to Snowflake
+2026-05-11 13:39:59,716 - INFO - 
+Running: Validation
+2026-05-11 13:40:13,835 - INFO - SUCCESS: Validation
+2026-05-11 13:40:13,837 - INFO - 
+Running: dbt Transformation
+2026-05-11 13:40:43,916 - INFO - SUCCESS: dbt Transformation
+2026-05-11 13:40:43,917 - INFO - 
+PIPELINE FINISHED
+2026-05-11 13:40:43,917 - INFO - Pipeline execution completed
+2026-05-11 13:41:25,177 - INFO - ============================================================
+2026-05-11 13:41:25,177 - INFO - PIPELINE STARTED
+2026-05-11 13:41:25,178 - INFO - ============================================================
+2026-05-11 13:41:25,179 - INFO - 
+Running: API Ingestion
+2026-05-11 13:41:35,657 - INFO - SUCCESS: API Ingestion
+2026-05-11 13:41:35,658 - INFO - 
+Running: Load to Snowflake
+2026-05-11 13:41:51,530 - INFO - SUCCESS: Load to Snowflake
+2026-05-11 13:41:51,531 - INFO - 
+Running: Validation
+2026-05-11 13:42:05,272 - INFO - SUCCESS: Validation
+2026-05-11 13:42:05,272 - INFO - 
+Running: dbt Transformation
+2026-05-11 13:42:28,819 - INFO - SUCCESS: dbt Transformation
+2026-05-11 13:42:28,819 - INFO - 
+PIPELINE FINISHED
+2026-05-11 13:42:28,820 - INFO - Pipeline execution completed
